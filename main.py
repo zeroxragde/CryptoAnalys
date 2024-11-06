@@ -158,7 +158,7 @@ if __name__ == '__main__':
     forecast_days = 7
     window_size = 20
     crypto = "eth"
-    api_key = 'e4a15de0a348438486cd0554561d4e10'  # Reemplaza con tu clave de API
+    api_key = 'API_key'  # Reemplaza con tu clave de API
 
     # Cargar datos anteriores
     previous_data = load_data(crypto)

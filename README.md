@@ -104,4 +104,26 @@ La aplicación realizará los siguientes pasos:
 ## Interpretar los Resultados
 - **Tendencia predicha**: Indica si se espera que el precio suba, baje o permanezca estable en los próximos días.
 - **Precio actual**: Muestra el precio actual de la criptomoneda en MXN.
-- **Sentimiento promedio de
+- **Sentimiento promedio de noticias**: Indica si las noticias recientes tienen un sentimiento positivo, negativo o neutral.
+
+## Contribuciones
+Las contribuciones son bienvenidas. Si deseas mejorar la aplicación, por favor, realiza un **fork** del repositorio y envía un **pull request** con tus cambios.
+
+## Licencia
+Este proyecto está bajo la licencia **MIT**. Consulta el archivo `LICENSE` para obtener más detalles.
+
+## Notas
+
+### Uso de Datos y APIs
+- Asegúrate de cumplir con los términos de uso de las APIs utilizadas, como **Bitso** y **NewsAPI**.
+- Las claves de API deben mantenerse seguras y no compartirse públicamente.
+
+### Advertencia
+- Esta aplicación es una herramienta de análisis y predicción que combina modelos de aprendizaje automático con análisis de sentimientos.
+- **Las predicciones no son garantizadas** y no deben ser consideradas como asesoramiento financiero.
+- Siempre realiza tu propia investigación antes de tomar decisiones de inversión.
+
+---
+
+**GitHub**: [ZeroXRagde](https://github.com/ZeroXRagde)
+
